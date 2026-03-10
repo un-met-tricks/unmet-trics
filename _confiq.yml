@@ -1,9 +1,7 @@
 title: "Unmet-Trics"
 description: "Econometrics - wrapped in inner monologue"
 theme: minima
-
-# Add these two lines for project repo
-baseurl: "/unmet-trics"    # your repo name, important!
+baseurl: "/unmet-trics"  # critical for project repo links
 url: "https://un-met-tricks.github.io"
 
 markdown: kramdown
