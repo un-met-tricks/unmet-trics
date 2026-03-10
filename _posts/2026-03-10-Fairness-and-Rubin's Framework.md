@@ -1,3 +1,9 @@
+---
+layout: post
+title: "The Idea of Justice - fair estimations and fairly well-done framework"
+date: 2026-03-10
+---
+
 ** A Much-Needed Statutory Warning **
 Although, in keeping with the essence of basic metrics, the first posts should really be about basic statistics, I hope at some point I have the energy (and enthusiasm) to write everything out from the very foundations. But for now, we stick with randomness of what I want to write about. 
 Super important note: the posts are not meant as a replacement of amazing source books already out there, not even as a replacement of truly enlightening blogs and posts that draw beautiful analysis from analogies. Think of this more as a journey on my train of thoughts if you will, as a try to navigate my own understanding of metrics. 
