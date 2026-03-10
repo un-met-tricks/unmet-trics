@@ -1,0 +1,7 @@
+title: "Unmet-Trics"
+description: "Econometrics - wrapped in inner monologue"
+theme: minima
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
