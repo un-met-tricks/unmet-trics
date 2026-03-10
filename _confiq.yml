@@ -1,6 +1,6 @@
 title: "Unmet-Trics"
 description: "Econometrics - wrapped in inner monologue"
-theme: minima
+theme: cayman
 baseurl: "/unmet-trics"  # critical for project repo links
 url: "https://un-met-tricks.github.io"
 
