@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Idea of Justice - fair estimations and fairly well-done framework"
+title: "The Idea of Justice - in Estimation"
 date: 2026-03-10
 ---
 
