@@ -8,6 +8,8 @@ Yes, another econometrics blog to crowd the net-world. As someone who completed 
 While there are a plethora of resources out there to help in varying degrees of ease, I found very few that had examples that I could relate to, and almost none in my vernacular (Bangla). So this project is more of a way to meet that unmet gap. But beyond altruisic (!) reasons, it is also my way to revise and remember what I learn as I traverse across the often turbulent but forever exciting terrain of causal inferences and empirical analysis. Hope this endogeneity in purposes serves more than just me.
 
 
+## Latest posts
+
 <ul>
   {% for post in site.posts %}
     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%b %d, %Y" }}</li>
